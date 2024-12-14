@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jashanbrar7
 - 👀 I’m sometimes interested in ...coding 
-- 🌱 I’m currently learning ...javascript
+- 🌱 I’m currently learning ...something
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...He\Him
